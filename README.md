@@ -1,5 +1,7 @@
 # サバゲ主催者用スクリプト集
 
+[![Join the chat at https://gitter.im/AirsoftGamesScript/Lobby](https://badges.gitter.im/AirsoftGamesScript/Lobby.svg)](https://gitter.im/AirsoftGamesScript/Lobby?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 ## 趣旨
 
 * 貸切ゲームでの朝ブリーフィングの説明事項の漏れをなくす
